@@ -24,7 +24,7 @@ The `NumberGuesser` program is a basic number guessing game implemented in Java.
 - Java Development Kit (JDK) installed on your system.
 ### Installation
 1. Clone the repository:
- https://github.com/MylHere/NumberGuesser
+ https://github.com/MylHere/NumberGuesserGame
 
 2. Compile the Java source code:
 javac NumberGuesser.java
